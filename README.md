@@ -8,3 +8,7 @@ Follow the following steps to get the data:
 2. `git clone https://github.com/SponsorsResearch/msr_2020_dataset.git`
 
 3. Unzip the archive in `2019-11-30` to get the `.csv` files
+
+# sponsorship_snapshots
+
+We keep the updates for sponsorship snapshots in this folder, the `sponsor` and `maintainer` appear as the users' `login` in GitHub.

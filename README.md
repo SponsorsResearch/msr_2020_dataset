@@ -1,8 +1,10 @@
-# Download the data set
+# Download from other hosts
 
-Recommended: Please visit the archive hosted on Zenodo with the following link: 
+Visit the archive hosted on Zenodo with the following link: 
 
 https://doi.org/10.5281/zenodo.3674175
+
+# Download from GitHub
 
 Alternatively, to download the data from GitHub:
 

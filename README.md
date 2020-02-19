@@ -1,14 +1,17 @@
-# msr_2020_dataset
-The data set for MSR 2020 paper on Github Sponsors
+# Download the data set
 
-Follow the following steps to get the data:
+Recommended: Please visit the archive hosted on Zenodo with the following link: 
+
+https://doi.org/10.5281/zenodo.3674175
+
+Alternatively, to download the data from GitHub:
 
 1. install Git LFS following https://git-lfs.github.com/
 
 2. `git clone https://github.com/SponsorsResearch/msr_2020_dataset.git`
 
-3. Unzip the archive in `2019-11-30` to get the `.csv` files
+3. Unzip the archive in `2019-11-30` to get the `.csv` files used in our MSR 2020 paper
 
-# sponsorship_snapshots
+# Updates
 
-We keep the updates for sponsorship snapshots in this folder, the `sponsor` and `maintainer` appear as the users' `login` in GitHub.
+We keep the updates for sponsorship snapshots in the `sponsorship_snapshots` folder, the `sponsor` and `maintainer` appear as the users' `login` in GitHub.
